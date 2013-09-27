@@ -1,0 +1,87 @@
+#header, #footer {
+    background-color: black;
+}
+
+#footer{
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    font-size: 12px;
+    font-family: verdana;
+}
+
+/*
+Imported from old pepband server
+*/
+p, span, font, a, .music-table td, .document-table td {
+    font-size: 12px;
+}
+
+.music-table, .document-table {
+    border-collapse: collapse;
+    width: 500px;
+}
+
+.music-table td, .document-table td {
+    padding: 5px;
+}
+
+.music-table th, .document-table th {
+    font-weight: bold;
+    font-size: 16px;
+    margin-botton: 5px;
+    border-bottom-style: solid;
+    border-bottom-color: #000000;
+    border-bottom-width: 1px;
+}
+
+td.table-content, th.table-content {
+    text-align: left;
+}
+
+tr.even {
+    background: #EDEDED;
+}
+
+tr.odd {
+    background: #FFFFFF;
+}
+
+td.pdf, td.jpeg, td.type {
+    text-align: center;
+    width: 100px;
+}
+
+/*  
+Sticky Footer Solution
+by Steve Hatcher 
+http://stever.ca
+http://www.cssstickyfooter.com
+*/
+
+* {margin:0;padding:0;} 
+
+/* must declare 0 margins on everything, also for main layout components use padding, not 
+vertical margins (top and bottom) to add spacing, else those margins get added to total height 
+and your footer gets pushed down a bit more, creating vertical scroll bars in the browser */
+
+html, body {height: 100%;}
+
+#wrap {min-height: 100%;}
+
+#main {overflow:auto;
+    padding-bottom: 80px;}  /* must be same height as the footer */
+
+#footer {position: relative;
+    margin-top: -80px; /* negative value of footer height */
+    height: 80px;
+    clear:both;} 
+
+/*Opera Fix*/
+body:before {/* thanks to Maleika (Kohoutec)*/
+content:"";
+height:100%;
+float:left;
+width:0;
+margin-top:-32767px;/* thank you Erik J - negate effect of float*/
+}
