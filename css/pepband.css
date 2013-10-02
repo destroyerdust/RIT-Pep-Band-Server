@@ -11,7 +11,33 @@
 }
 
 /*
+Phone CSS (768px and down)
+*/
+@media only screen{
+    .side-nav{
+        text-align: center;
+    }
+    .side-nav a{
+        font-size: 14px;
+    }
+}
+
+/*
+Other CSS (768px and up)
+*/
+@media only screen and (min-width: 768px){
+    .side-nav{
+        text-align: left;
+    }
+    .side-nav a{
+        font-size: 12px;
+    }
+}
+
+/*
 Imported from old pepband server
+
+Maybe minor tweeks
 */
 p, span, font, a, .music-table td, .document-table td {
     font-size: 12px;
@@ -19,7 +45,6 @@ p, span, font, a, .music-table td, .document-table td {
 
 .music-table, .document-table {
     border-collapse: collapse;
-    width: 500px;
 }
 
 .music-table td, .document-table td {
