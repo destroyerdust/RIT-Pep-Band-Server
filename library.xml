@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<library>
+	<s101>
+		<name>24 or 6 to 4</name>
+		<path>/music/25 or 6 to 4/</path>
+		<parts>
+			<altosax1 name="Alto Sax 1">
+				<pdf>AltoSax.pdf</pdf>
+				<jpg>AltoSax.jpg</jpg>
+			</altosax1>
+			<altosax2 name="Alto Sax 2">
+				<pdf></pdf>
+				<jpg></jpg>
+			</altosax2>
+			<barisax name="Bari Sax">
+				<pdf>BariSax.pdf</pdf>
+				<jpg>BariSax.jpg</jpg>
+			</barisax>
+			<bassclarinet name="Bass Clarinet">
+				<pdf></pdf>
+				<jpg></jpg>
+			</bassclarinet>
+			<clarinet1 name="Clarinet 1">
+				<pdf>Clarinet.pdf</pdf>
+				<jpg>Clarinet.jpg</jpg>
+			</clarinet1>
+			<clarinet2 name="Clarinet 2">
+				<pdf></pdf>
+				<jpg></jpg>
+			</clarinet2>
+			<flute1 name="Flute 1">
+				<pdf>Flute.pdf</pdf>
+				<jpg>Flute.jpg</jpg>
+			</flute1>
+			<flute2 name="Flute 2">
+				<pdf></pdf>
+				<jpg></jpg>
+			</flute2>
+			<hornf name="Horn in F">
+				<pdf>Horn-F.pdf</pdf>
+				<jpg>Horn-F.jpg</jpg>
+			</hornf>
+			<percussionaux1 name="Percussion - Aux 1">
+				<pdf>Percussion-Aux.pdf</pdf>
+				<jpg>Percussion-Aux.jpg</jpg>
+			</percussionaux1>
+			<percussionaux2 name="Percussion - Aux 2">
+				<pdf></pdf>
+				<jpg></jpg>
+			</percussionaux2>
+			<percussionbassdrums name="Percussion - Bass Drums">
+				<pdf>Percussion-BassDrum.pdf</pdf>
+				<jpg>Percussion-BassDrum.jpg</jpg>
+			</percussionbassdrums>
+		</parts>
+	</s101>
+</library>	
+

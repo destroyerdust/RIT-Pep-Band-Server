@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<eboard>
+	<e01 description="President">
+		<name>Teryn Rynone</name>
+		<phone>6072797776</phone>
+		<email>terynrynone@gmail.com</email>
+	</e01>
+	<e02 description="Vice President">
+		<name>Sarah Kearns</name>
+		<phone></phone>
+		<email>sek5517@rit.edu</email>
+	</e02>
+	<e03 description="Vice President">
+		<name>Michael Ploch</name>
+		<phone></phone>
+		<email>map1740@rit.edu</email>
+	</e03>
+	<e04 description="Treasurer">
+		<name>Neil Guertin</name>
+		<phone></phone>
+		<email>nrg5994@rit.edu</email>
+	</e04>
+	<e05 description="Secretary">
+		<name>Kaity Moranz</name>
+		<phone>5857330369</phone>
+		<email>kem9694@rit.edu</email>
+	</e05>
+	<e06 description="Conductor">
+		<name>Andrew Hitcher</name>
+		<phone>6102477281</phone>
+		<email>agh7674@rit.edu</email>
+	</e06>
+</eboard>

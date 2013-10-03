@@ -1,0 +1,20 @@
+<?xml version="1.0" ?>
+<navigation>
+	<main>
+		<calendar href="/admin/content.pl?view=calendar"></calendar>
+		<eboard href="/admin/content.pl?view=eboard"></eboard>
+		<sleaders href="/admin/content.pl?view=eboard"></sleaders>
+		<documents href="/admin/content.pl?view=documents"></documents>
+		<links href="/admin/content.pl?view=links"></links>
+	</main>
+	<library>
+		<s101>
+			<name>25 or 6 to 4</name>
+			<href>/songs.view?id=s101</href>
+		</s101>
+		<s102>
+			<name>99 Red Balloons</name>
+			<href>/songs.view?id=s102</href>
+		</s102>
+	</library>
+</navigation>
