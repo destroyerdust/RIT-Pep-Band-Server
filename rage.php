@@ -3,71 +3,75 @@
 					<p>Click on the link to download the appropriate part.</p>
 					<br />
 					<table class="music-table">
-						<tr>
-							<th><!-- Filler --></th>
-							<th><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
-							<th><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
-						</tr>
-						<tr class="odd">
-							<td>Alto Sax</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/AltoSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/AltoSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Clarinet</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Clarinet.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Clarinet.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Flute</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Flute.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Flute.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Horn in F</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Bass Drums</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Percussion-BassDrum.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Percussion-BassDrum.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Cowbell</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Percussion-Cowbell.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Percussion-Cowbell.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Percussion.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Percussion.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tenor Sax</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trombone</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Trombone.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Trombone.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trumpet 1</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trumpet 2</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tuba</td>
-							<td class="pdf"><a href="/music/Rage!/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Rage!/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
-						</tr>			
+						<thead>
+							<tr>
+								<th width="300"><!-- Filler --></th>
+								<th width="150"><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
+								<th width="150"><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="odd">
+								<td>Alto Sax</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/AltoSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/AltoSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Clarinet</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Clarinet.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Clarinet.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Flute</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Flute.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Flute.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Horn in F</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Bass Drums</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Percussion-BassDrum.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Percussion-BassDrum.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Cowbell</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Percussion-Cowbell.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Percussion-Cowbell.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Percussion.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Percussion.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tenor Sax</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trombone</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Trombone.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Trombone.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trumpet 1</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trumpet 2</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tuba</td>
+								<td class="pdf"><a href="/music/Rage!/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Rage!/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
+							</tr>
+						</tbody>			
 					</table>
 					
 					<h2>Roadmap</h2>

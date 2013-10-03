@@ -3,101 +3,105 @@
 					<p>Click on the link to download the appropriate part.</p>
 					<br />
 					<table class="music-table">
-						<tr>
-							<th><!-- Filler --></th>
-							<th><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
-							<th><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
-						</tr>
-						<tr class="odd">
-							<td>Alto Sax 1</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/AltoSax-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/AltoSax-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Alto Sax 2</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/AltoSax-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/AltoSax-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Clarinet 1</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Clarinet-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Clarinet-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Clarinet 2</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Clarinet-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Clarinet-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Flute 1</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Flute-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Flute-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Flute 2</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Flute-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Flute-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Horn in F</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Bass Drums</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-BassDrums.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-BassDrums.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Cymbals</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-Cymbals.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-Cymbals.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Quint Toms</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-QuintToms.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-QuintToms.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Snare Drum</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-SnareDrum.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-SnareDrum.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tenor Sax</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trombone 1</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Trombone-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Trombone-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trombone 2</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Trombone-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Trombone-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trumpet 1</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trumpet 2</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trumpet 3</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Trumpet-3.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Trumpet-3.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tuba</td>
-							<td class="pdf"><a href="/music/Forget%20You/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Forget%20You/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
-						</tr>			
+						<thead>
+							<tr>
+								<th width="300"><!-- Filler --></th>
+								<th width="150"><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
+								<th width="150"><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="odd">
+								<td>Alto Sax 1</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/AltoSax-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/AltoSax-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Alto Sax 2</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/AltoSax-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/AltoSax-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Clarinet 1</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Clarinet-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Clarinet-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Clarinet 2</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Clarinet-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Clarinet-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Flute 1</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Flute-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Flute-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Flute 2</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Flute-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Flute-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Horn in F</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Bass Drums</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-BassDrums.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-BassDrums.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Cymbals</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-Cymbals.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-Cymbals.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Quint Toms</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-QuintToms.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-QuintToms.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Snare Drum</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Percussion-SnareDrum.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Percussion-SnareDrum.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tenor Sax</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trombone 1</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Trombone-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Trombone-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trombone 2</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Trombone-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Trombone-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trumpet 1</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trumpet 2</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trumpet 3</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Trumpet-3.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Trumpet-3.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tuba</td>
+								<td class="pdf"><a href="/music/Forget%20You/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Forget%20You/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
+							</tr>
+						</tbody>		
 					</table>
 					
 					<h2>Roadmap</h2>

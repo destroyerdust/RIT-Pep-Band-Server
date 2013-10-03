@@ -34,11 +34,9 @@
 	            <div class="row">
 					<div class="large-2 columns">	
 						<!-- Navigation -->
-						<ul class="side-nav">
-							<?php 
-								$root = realpath($_SERVER["DOCUMENT_ROOT"]);
-								include($root . "/navigation.php"); ?>
-						</ul>
+						<?php 
+							$root = realpath($_SERVER["DOCUMENT_ROOT"]);
+							include($root . "/navigation.php"); ?>
 					</div>
 
 					<!-- Main Content -->

@@ -3,56 +3,60 @@
 					<p>Click on the link to download the appropriate part.</p>
 					<br />
 					<table class="music-table">
-						<tr>
-							<th><!-- Filler --></th>
-							<th><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
-							<th><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
-						</tr>
-						<tr class="odd">
-							<td>Alto Sax</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/AltoSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/AltoSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Bari Sax</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/BariSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/BariSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Clarinet</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Clarinet.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Clarinet.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Flute</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Flute.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Flute.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Horn</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tenor Sax</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trombone</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Trombone.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Trombone.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trumpet</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Trumpet.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Trumpet.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Tuba</td>
-							<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
-						</tr>			
+						<thead>
+							<tr>
+								<th width="300"><!-- Filler --></th>
+								<th width="150"><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
+								<th width="150"><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="odd">
+								<td>Alto Sax</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/AltoSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/AltoSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Bari Sax</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/BariSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/BariSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Clarinet</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Clarinet.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Clarinet.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Flute</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Flute.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Flute.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Horn</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tenor Sax</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trombone</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Trombone.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Trombone.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trumpet</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Trumpet.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Trumpet.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Tuba</td>
+								<td class="pdf"><a href="/music/Looney%20Tunes%20Theme/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Looney%20Tunes%20Theme/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
+							</tr>
+						</tbody>			
 					</table>
 					
 					<h2>Roadmap</h2>

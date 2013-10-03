@@ -3,101 +3,105 @@
 					<p>Click on the link to download the appropriate part.</p>
 					<br />
 					<table class="music-table">
-						<tr>
-							<th><!-- Filler --></th>
-							<th><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
-							<th><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
-						</tr>
-						<tr class="odd">
-							<td>Alto Sax</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/AltoSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/AltoSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Bari Sax</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/BariSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/BariSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Clarinet</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Clarinet.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Clarinet.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Flute</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Flute.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Flute.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Horn in F</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Aux</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-Aux.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-Aux.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Bells</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-Bells.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-Bells.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Snare Drum</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-SnareDrum.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-SnareDrum.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Triple Toms</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-Toms.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-Toms.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Rhythm - Electric Bass</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Rhythm-ElectricBass.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Rhythm-ElectricBass.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Tenor Sax</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trombone 1</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Trombone-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Trombone-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trombone 2</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Trombone-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Trombone-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trumpet 1</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trumpet 2</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trumpet 3</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-3.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-3.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trumpet 4</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-4.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-4.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tuba</td>
-							<td class="pdf"><a href="/music/Beat%20It/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Beat%20It/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
-						</tr>			
+						<thead>
+							<tr>
+								<th width="300"><!-- Filler --></th>
+								<th width="150"><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
+								<th width="150"><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="odd">
+								<td>Alto Sax</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/AltoSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/AltoSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Bari Sax</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/BariSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/BariSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Clarinet</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Clarinet.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Clarinet.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Flute</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Flute.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Flute.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Horn in F</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Aux</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-Aux.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-Aux.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Bells</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-Bells.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-Bells.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Snare Drum</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-SnareDrum.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-SnareDrum.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Triple Toms</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Percussion-Toms.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Percussion-Toms.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Rhythm - Electric Bass</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Rhythm-ElectricBass.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Rhythm-ElectricBass.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Tenor Sax</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trombone 1</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Trombone-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Trombone-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trombone 2</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Trombone-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Trombone-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trumpet 1</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trumpet 2</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trumpet 3</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-3.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-3.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trumpet 4</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Trumpet-4.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Trumpet-4.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tuba</td>
+								<td class="pdf"><a href="/music/Beat%20It/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Beat%20It/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
+							</tr>
+						</table>			
 					</table>
 					
 					<h2>Roadmap</h2>

@@ -1,0 +1,9 @@
+AuthUserFile /usr/local/httpd/.htpasswd
+AuthName "Protected Content"
+AuthType Basic
+require valid-user
+RewriteEngine On
+RewriteRule ^([^/]*).htm$ /index.php?id=$1 [L]
+
+ErrorDocument 404 /notfound.htm
+ErrorDocument 403 /forbidden.htm

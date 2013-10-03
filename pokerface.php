@@ -3,131 +3,135 @@
 					<p>Click on the link to download the appropriate part.</p>
 					<br />
 					<table class="music-table">
-						<tr>
-							<th><!-- Filler --></th>
-							<th><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
-							<th><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
-						</tr>
-						<tr class="odd">
-							<td>Alto Sax 1</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/AltoSax-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/AltoSax-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Alto Sax 2</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/AltoSax-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/AltoSax-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Bari Sax</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/BariSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/BariSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Clarinet 1</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Clarinet-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Clarinet-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Clarinet 2</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Clarinet-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Clarinet-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Flute 1</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Flute-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Flute-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Flute 2</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Flute-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Flute-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Horn in F</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Aux 1</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Aux-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Aux-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Aux 2</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Aux-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Aux-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Bass Drums</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-BassDrums.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-BassDrums.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Bells</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Bells.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Bells.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Cymbals</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Cymbals.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Cymbals.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Quad Toms</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-QuadToms.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-QuadToms.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Snare Drum</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-SnareDrum.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-SnareDrum.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Percussion - Timpani</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Timpani.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Timpani.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Percussion - Xylophone</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Xylophone.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Xylophone.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tenor Sax</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trombone 1</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Trombone-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trombone-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trombone 2</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Trombone-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trombone-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trumpet 1</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Trumpet 2</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="odd">
-							<td>Trumpet 3</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Trumpet-3.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trumpet-3.jpg" target="_blank">Click Here</a></td>
-						</tr>
-						<tr class="even">
-							<td>Tuba</td>
-							<td class="pdf"><a href="/music/Poker%20Face/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
-							<td class="jpeg"><a href="/music/Poker%20Face/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
-						</tr>			
+						<thead>
+							<tr>
+								<th width="300"><!-- Filler --></th>
+								<th width="150"><img src="/media/pdf.png" alt="PDF" height="16" width="16" />&#032;PDF</th>
+								<th width="150"><img src="/media/picture.png" alt="JPEG" height="16" width="16" />&#032;JPEG</th>
+							</tr>
+						</thead>
+						<tbody>
+							<tr class="odd">
+								<td>Alto Sax 1</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/AltoSax-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/AltoSax-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Alto Sax 2</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/AltoSax-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/AltoSax-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Bari Sax</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/BariSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/BariSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Clarinet 1</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Clarinet-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Clarinet-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Clarinet 2</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Clarinet-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Clarinet-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Flute 1</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Flute-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Flute-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Flute 2</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Flute-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Flute-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Horn in F</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Horn-F.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Horn-F.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Aux 1</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Aux-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Aux-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Aux 2</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Aux-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Aux-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Bass Drums</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-BassDrums.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-BassDrums.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Bells</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Bells.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Bells.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Cymbals</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Cymbals.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Cymbals.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Quad Toms</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-QuadToms.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-QuadToms.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Snare Drum</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-SnareDrum.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-SnareDrum.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Percussion - Timpani</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Timpani.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Timpani.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Percussion - Xylophone</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Percussion-Xylophone.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Percussion-Xylophone.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tenor Sax</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/TenorSax.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/TenorSax.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trombone 1</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Trombone-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trombone-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trombone 2</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Trombone-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trombone-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trumpet 1</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Trumpet-1.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trumpet-1.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Trumpet 2</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Trumpet-2.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trumpet-2.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="odd">
+								<td>Trumpet 3</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Trumpet-3.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Trumpet-3.jpg" target="_blank">Click Here</a></td>
+							</tr>
+							<tr class="even">
+								<td>Tuba</td>
+								<td class="pdf"><a href="/music/Poker%20Face/pdf/Tuba.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Poker%20Face/jpg/Tuba.jpg" target="_blank">Click Here</a></td>
+							</tr>
+						</tbody>			
 					</table>
 					
 					<h2>Roadmap</h2>

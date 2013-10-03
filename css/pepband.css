@@ -10,6 +10,12 @@
     font-family: verdana;
 }
 
+.section-container.horizontal-nav > section > .title a {
+    text-align: center;
+    font-size: 14px;
+    font-weight: bold;
+}
+
 /* Responsive iFrame */
 
 .responsive-iframe-container {
