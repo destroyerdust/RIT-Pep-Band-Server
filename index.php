@@ -26,7 +26,7 @@
 				<div id="header">
 	                <div class="row">
 	                    <div class="large-12 columns">
-	                        <a href="index.html"><img src="media/banner.jpg" alt="RIT Pep Band Resource Center" height="120" width="750"></a>
+	                        <a href="/calendar.htm"><img src="media/banner.jpg" alt="RIT Pep Band Resource Center" height="120" width="750"></a>
 	                    </div>
 	                </div>
 	            </div>
