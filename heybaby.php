@@ -107,9 +107,13 @@
 					
 					<h2>Recordings / Media</h2>
 					<h3>ImageRIT 2012</h3>
-					<iframe width="420" height="315" src="https://www.youtube.com/embed/zRYd0Xa-EEU?rel=0" frameborder="0" allowfullscreen></iframe>
+					<div class="flex-video">
+						<iframe width="420" height="315" src="https://www.youtube.com/embed/zRYd0Xa-EEU?rel=0" frameborder="0" allowfullscreen></iframe>
+					</div>
 					<h3>ImageRIT 2011</h3>
-					<iframe width="420" height="315" src="https://www.youtube.com/embed/JdjpIUfRSvo?rel=0" frameborder="0" allowfullscreen></iframe>
+					<div class="flex-video">
+						<iframe width="420" height="315" src="https://www.youtube.com/embed/JdjpIUfRSvo?rel=0" frameborder="0" allowfullscreen></iframe>
+					</div>
 					<h3>2010/2011 Recording</h3>
 					<a href="/audio/2011%20-%20Hey%20Baby.mp3" title="Download MP3">Download MP3</a>
 									

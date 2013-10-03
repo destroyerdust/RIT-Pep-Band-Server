@@ -43,8 +43,10 @@ Phone CSS (768px and down)
     .side-nav{
         text-align: center;
     }
-    .side-nav a{
+    .side-nav li a{
         font-size: 14px;
+        text-decoration: underline;
+        color: black;
     }
 }
 
@@ -55,8 +57,10 @@ Other CSS (768px and up)
     .side-nav{
         text-align: left;
     }
-    .side-nav a{
+    .side-nav li a{
         font-size: 12px;
+        text-decoration: underline;
+        color: black;
     }
 }
 

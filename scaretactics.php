@@ -121,9 +121,11 @@
 					</p>
 					
 					<h2>Recordings / Media</h2>
-					<h3>Hockey Game Footage - 2011/2012 Season</h3>					
-					<iframe width="560" height="315" src="https://www.youtube.com/embed/efDDXTQLS6s?rel=0" frameborder="0" allowfullscreen></iframe>
-									
+					<h3>Hockey Game Footage - 2011/2012 Season</h3>	
+					<div class="flex-video">				
+						<iframe width="560" height="315" src="https://www.youtube.com/embed/efDDXTQLS6s?rel=0" frameborder="0" allowfullscreen></iframe>
+					</div>
+								
 					<h2>Revisions</h2>
 					<p>
 						<?php

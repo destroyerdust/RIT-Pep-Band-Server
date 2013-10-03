@@ -107,7 +107,9 @@
 					
 					<h2>Recordings / Media</h2>
 					<h3>ImageRIT 2012</h3>
-					<iframe width="420" height="315" src="https://www.youtube.com/embed/vkqIP0nW5UE?rel=0" frameborder="0" allowfullscreen></iframe>					
+					<div class="flex-video">
+						<iframe width="420" height="315" src="https://www.youtube.com/embed/vkqIP0nW5UE?rel=0" frameborder="0" allowfullscreen></iframe>					
+					</div>
 									
 					<h2>Revisions</h2>
 					<p>
