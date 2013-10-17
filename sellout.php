@@ -33,8 +33,8 @@
 							</tr>
 							<tr class="odd">
 								<td>Percussion - Bass Drums</td>
-								<td class="pdf"><a href="/music/Sell%20Out/pdf/Percussion-BassDrum.pdf" target="_blank">Click Here</a></td>
-								<td class="jpeg"><a href="/music/Sell%20Out/jpg/Percussion-BassDrum.jpg" target="_blank">Click Here</a></td>
+								<td class="pdf"><a href="/music/Sell%20Out/pdf/Percussion-BassDrums.pdf" target="_blank">Click Here</a></td>
+								<td class="jpeg"><a href="/music/Sell%20Out/jpg/Percussion-BassDrums.jpg" target="_blank">Click Here</a></td>
 							</tr>
 							<tr class="even">
 								<td>Percussion - Quad Toms</td>
